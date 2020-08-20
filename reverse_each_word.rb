@@ -5,7 +5,6 @@ def reverse_each_word(reverse)
     backwards.reverse
   end.join(' ')
 
-  
 end
 
 #.join converts array into a string .reverse
