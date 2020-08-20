@@ -1,5 +1,7 @@
-def reverse_each_word(reverse)
+require 'pry'
 
+def reverse_each_word(reverse)
+binding.pry
   
 end
 
